@@ -2,8 +2,6 @@
 
 ### a fullstack laravel-react developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sbn-program&label=Profile views&color=0e75b6&style=flat" alt="sbn-program" /> </p>
-
 - 🔭 I'm currently working on **a educational site with laravel and tailwind**
 
 - 🌱 I'm currently learning **React and Next.js and Nuxt.js**
